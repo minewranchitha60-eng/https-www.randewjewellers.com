@@ -1,17 +1,21 @@
 # https-www.randewjewellers.com
 Official website for Ran Dew Jewellers – gold jewelry business 
+jewelry-website
+index.html
+style.css
+script.js
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Ma Ran Dew Jewellers</title>
+    <title>  Ran Dew Jewellers</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-    <h1>Ma Ran Dew Jewellers</h1>
+    <h1> Ran Dew Jewellers</h1>
     <p>Trusted Gold & Silver Jewelry</p>
 </header>
 
@@ -65,6 +69,7 @@ Official website for Ran Dew Jewellers – gold jewelry business
     <p>© 2025 Ma Ran Dew Jewellers</p>
 </footer>
 
+<script src="script.js"></script>
 </body>
 </html>
 body {
@@ -130,6 +135,5 @@ footer {
     padding: 15px;
     font-size: 14px;
 }
-
 // Ready for future features
 console.log("Jewelry website loaded");
